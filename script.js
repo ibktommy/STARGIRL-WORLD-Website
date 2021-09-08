@@ -16,7 +16,6 @@ const categoryInfoBtn = document.querySelectorAll(".cat-info_btn");
 
 categoryInfoBtn.forEach((infoBtn) => {
   infoBtn.addEventListener("click", function() {
-    this.firstElementChild.classList.toggle("active");
     this.previousElementSibling.classList.toggle("active");
   })
 });

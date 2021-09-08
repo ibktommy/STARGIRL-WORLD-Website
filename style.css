@@ -481,20 +481,13 @@ br {
 	transition: background .3s;
 }
 
+.cat-info_btn i {
+	color: var(--white);
+	font-size: 1.5rem;
+}
+
 .cat-info_btn:hover {
 	background: var(--pry-color);
-}
-
-.btn-line {
-	width: 80%;
-	height: .2rem;
-	background-color: var(--white);
-	transition: transform .5s;
-}
-
-/* DYNAMIC CLASS */
-.active.btn-line {
-	transform: rotate(415deg);
 }
 
 /* SECTION 4 */
@@ -771,6 +764,7 @@ br {
 	font-family: var(--font-1);
 	font-size: 1.3rem;
 	color: #757575;
+	opacity: .5;
 }
 
 .form-name,

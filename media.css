@@ -49,6 +49,11 @@
 		font-size: 1.8rem;
 	}
 
+	.category-details {
+		width: 25rem;
+		height: 25rem;
+	}
+
 	.section-4 {
 		height: 80vh;
 		padding: 3rem 0;
@@ -114,6 +119,19 @@
 	.about-img {
 		margin-top: 5rem;
 	}
+
+	.category-details {
+		width: 20rem;
+		height: 20rem;
+	}
+
+	.cat-info_btn {
+		width: 3rem;
+		height: 3rem;
+		border-radius: 3rem;
+		top: -8%;
+	}
+
 	.section-5 .section-heading {
 		margin-bottom: 1rem;
 	}
@@ -292,7 +310,7 @@
 
 @media screen and (max-width: 500px) {
 	#home {
-		background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)),
+		background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)),
 			url(./images/main-img/mobile-bg.jpg) no-repeat center center/cover;
 		min-height: 60vh;
 	}
