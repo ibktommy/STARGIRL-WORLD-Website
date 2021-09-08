@@ -11,7 +11,7 @@ menuIcon.addEventListener('click', function() {
   navItem.classList.toggle('change');
 });
 
-// ABOUT INFO "BTN" CLICK EVENT
+// PRODUCT INFO "BTN" CLICK EVENT
 const categoryInfoBtn = document.querySelectorAll(".cat-info_btn");
 
 categoryInfoBtn.forEach((infoBtn) => {
@@ -145,9 +145,9 @@ function removeClass() {
 };
 
 // FORM FUNCTION TO PREVENT DEFAULT
-const form = document.querySelector(".contact-form");
-form.addEventListener('submit', function(e) {
-  e.preventDefault();
-});
+// const form = document.querySelector(".contact-form");
+// form.addEventListener('submit', function(e) {
+//   e.preventDefault();
+// });
 
 
