@@ -759,7 +759,7 @@ br {
 	border: none;
 	box-shadow: 0 .3rem .6rem rgba(0, 0, 0, .16);
 	font-family: var(--font-1);
-	color: var(--pry-color);
+	color: #757575;
 }
 
 .contact-form input:focus,
