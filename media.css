@@ -81,6 +81,14 @@
 }
 
 @media screen and (max-width: 950px) {
+	.change.menu-icon .line-1 {
+		transform: rotate(-135deg) translateY(-.3rem);
+	}
+
+	.change.menu-icon .line-3 {
+		transform: rotate(135deg) translateY(.3rem);
+	}
+
 	.section-2 {
 		min-height: 70vh;
 		flex-direction: column;
