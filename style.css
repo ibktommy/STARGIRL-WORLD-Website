@@ -475,7 +475,7 @@ br {
 	background-color: var(--sec-color);
 	border-radius: 4rem;
 	position: absolute;
-	top: -6%;
+	top: -7%;
 	right: -6%;
 	cursor: pointer;
 	transition: background .3s;
