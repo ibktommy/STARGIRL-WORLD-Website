@@ -310,24 +310,24 @@
             </div>
           </div>
         </div>
-        <form class="contact-form">
+        <form name="contact" method="POST" data-netlify="true" class="contact-form">
           <div class="form-name">
             <label for="name">Name</label>
-            <input type="text" id="name" placeholder="Type your name">
+            <input type="text" id="name" placeholder="Type your name" name="name">
           </div>
           <div class="form-info">
             <div class="info-phone">
               <label for="phone">Phone Number</label>
-              <input type="text" id="phone" placeholder="Type your phone number">
+              <input type="text" id="phone" placeholder="Type your phone number" name="phone">
             </div>
             <div class="info-email">
               <label for="email">Email</label>
-              <input type="email" id="email" placeholder="Type your email address">
+              <input type="email" id="email" placeholder="Type your email address" name="email">
             </div>
           </div>
           <div class="form-message">
             <label for="message">Your message</label>
-            <textarea id="message" placeholder="Type your message here"></textarea>
+            <textarea id="message" placeholder="Type your message here" name="message"></textarea>
           </div>
           <div class="form-btn">
             <input type="submit" value="Send Message">
