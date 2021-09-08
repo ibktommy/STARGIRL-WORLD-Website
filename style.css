@@ -770,7 +770,7 @@ br {
 .contact-form ::placeholder {
 	font-family: var(--font-1);
 	font-size: 1.3rem;
-	color: var(--pry-color);
+	color: #757575;
 }
 
 .form-name,
