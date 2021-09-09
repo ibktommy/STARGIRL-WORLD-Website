@@ -94,6 +94,15 @@
 		transform: rotate(135deg) translateY(.3rem);
 	}
 
+	header {
+		border: .1rem solid #fff;
+		text-align: center;
+	}
+
+	.header-para {
+		width: 100%;
+	}
+
 	.section-2 {
 		min-height: 70vh;
 		flex-direction: column;
@@ -254,11 +263,6 @@
 		letter-spacing: .2rem;
 	}
 
-	.header-para {
-		font-size: 1.8rem;
-		width: 80%;
-	}
-
 	.header-btn {
 		font-size: 1.2rem;
 
@@ -324,13 +328,12 @@
 		padding: 0 5%;
 	}
 	.header-title {
-		font-size: 3rem;
+		font-size: 3.5rem;
 		font-weight: 600;
 	}
 
 	.header-para {
-		font-size: 1.4rem;
-		width: 100%;
+		font-size: 2rem;
 	}
 
 	.contact-form input {

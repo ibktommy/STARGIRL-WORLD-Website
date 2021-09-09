@@ -226,6 +226,8 @@ nav.change {
 
 header {
 	color: var(--white);
+	height: max-content;
+	padding: 2rem 0 3rem 0;
 }
 
 .header-title {
