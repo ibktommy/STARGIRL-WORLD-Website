@@ -16,7 +16,7 @@
       Website Code Files
     </a>
     <span> | </span>
-    <a href="https://stargirlworld.netlify.app/">
+    <a href="https://stargirlworld.netlify.app/" target="_blank">
       Project Website Link
     </a>
   </h3>
