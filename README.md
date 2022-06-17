@@ -1,7 +1,7 @@
 <h1 align="center">{STARGIRL WORLD}</h1>
 
 <div align="center">
-   <h2>This is a website project that I built for a business that makes and sell "Bags and Shoes". The website is mainly a showcase to give the business an online presence. This project is more of a freelance work and it is not made on any official business contract. I have sole ownership of the website project</h2>
+   <h2>This is a website project that I built for a business that makes and sell "Bags and Shoes". The website is mainly a showcase to give the business an online presence.
    
    <h3>The website was first designed using Adobe XD before I now proceed to code it. The website design is my sole inspiration.
       This is not a recreation of anyone's work, some design inspirations have been taken from some past projects I have worked on or learnt.
